@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Oscar\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Proyectos y Trabajos\Proyectos Android\KotlinApp\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_b82b764861d007800762cf2dbcb7e96e55dea498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Oscar\.android\build-cache\fb1d3252015c9a4d08959d9e0661f72fd36eb388\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Proyectos y Trabajos\Proyectos Android\KotlinApp\app\build\intermediates\pre-dexed\debug\classes_10e2f5735cad3ecab315ba7a1b3443d2a2fbe623.jar" />
+    </item>
+
+</items>
